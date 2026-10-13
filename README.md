@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ramiro, I'm a 5th year Systems Engineer student. I will be replaced by AI in a year</p>
+<p align="left">My name is Ramiro, I'm a 5th year Systems Engineer student.</p>
 
 <img width="600" height="200" alt="countdown" src="https://github.com/user-attachments/assets/fb3e0b05-4ac5-490b-b2a5-f32c1f80c810" />
 
