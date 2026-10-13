@@ -4,7 +4,7 @@
 
 <p align="left">My name is Ramiro, I'm a 5th year Systems Engineer student.</p>
 
-<img width="600" height="200" alt="countdown" src="https://github.com/user-attachments/assets/fb3e0b05-4ac5-490b-b2a5-f32c1f80c810" />
+<img width="600" height="200" alt="countdown (1)" src="https://github.com/user-attachments/assets/51c8dca7-cd7c-49ec-8a18-5bbe14158546" />
 
 
 ###
